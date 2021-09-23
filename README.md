@@ -1,8 +1,9 @@
 # AGAR.io-MULTIPLAYER-GAME
 
 ## Installation 
-#### cd into  folder
-#### npm install (this will install all dependencies)
+```cd into  folder```
+
+```npm install```  (This will install all required dependencies)
  
 ## Run
-#### npm start
+```npm start```
